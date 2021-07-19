@@ -1,0 +1,13 @@
+app:
+  screenshots: 截图
+  description: 描述
+  featured: 功能
+
+footer:
+  copyright:
+  links:
+    - title: Github
+      url: https://github.com/sandoche/Mobile-app-landingpage-template
+      target: _blank
+    - title: Privacy
+      url: /privacy
