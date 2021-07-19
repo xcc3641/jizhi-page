@@ -1,65 +1,168 @@
 ---
 layout: page
-title: What's New
+title: 更新内容
 include_in_header: true
 ---
 
-# Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+![](https://cdn.jsdelivr.net/gh/xcc3641/xcc3641.github.io@master/assets/images/jizhi.png)
 
 <br>
 
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+## 前言
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+❀
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+很高兴你会喜欢几枝！
+    
 
-<br>
-
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+几枝是一个关于诗词的应用，我受同名浏览器插件启发，与原作者邮件沟通后，移植到了客户端，同时增加了平台特性。
+    
+我个人很喜欢首页的视觉效果，几枝对我来说更多的是一个观赏性的应用，我最喜欢它的样子是: 横屏后双击屏幕进入的全屏沉浸效果——波浪的流动会让我心安。
+    
+**最后谢谢你，和我一起享受了它。**
 
 <br>
 
-________
-<br>
+## TODO
 
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+记录一些还未来得及做的想法。
 
-<br>
+### ⏳ 2.3.0 （~~待做~~ => 画饼）
 
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+- 新增 增加小部件更多设置（颜色、文字大小，样式）
+- 新增 诗词详情可收藏，新增本地收藏的诗词
+- 优化 iOS小部件的格式、快速刷新的问题、适配 ipad
 
 <br>
 
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
+## 更新日志
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+### ✅ 2.2.x
 
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+- 新增 首页保存壁纸
+- 新增 详情页作者生平
+- 新增 详情页诗词赏析
+- 修复 详情页偶现崩溃问题
+- 优化 Android 底部 bar
 
 <br>
+
+### ✅ 2.2.0
+
+- 修复 从小部件点击白屏问题
+- 新增 适当的震动反馈
+- 新增 关于几枝页面
+- 新增 新手引导
+- 优化 首页交互
+
+<br>
+
+### ✅ 2.1.0
+
+- 修复 白屏问题
+- 优化 点击诗词即可跳转详情
+- 优化 Android依赖升级
+
+<br>
+
+### ✅ 2.0.0 (iOS上线)
+
+红豆生南国，春来发几枝。
+
+个人独立开发的几枝 iOS 版本终于上线了，希望大家喜欢。
+
+App Store 宣传文案：
+
++ 新增 首页一句诗词、沉浸波浪
++ 新增 诗词小部件，可添加至桌面
++ 新增 诗词详情，查看该诗词全文和解释
++ 新增 中国色，一览目前已收集的中国色
+
+<br>
+
+### ✅ 1.5.8
+
+- 新增 中国色
+- 新增 诗词详情
+
+<br>
+
+### ✅ 1.5.6/1.5.7
+
+- 优化 沉浸状态栏
+- 优化 首页刷新全屏交互
+- 修复 新用户打开异常
+
+<br>
+
+### ✅ 1.5.5
+
+- 新增 夜间模式
+- 优化 设置页面
+- 优化 捐赠页面
+- 修复 新用户首次打开白屏
+
+<br>
+
+### ✅ 1.5.4
+
+- 优化 诗词排版
+- 优化 抽屉图标
+- 优化 刷新诗词交互
+- 新增 双击屏幕沉浸模式
+- 新增 更多动画细节（沉浸模式、颜色动画转换等）
+
+<br>
+
+### ✅ 1.5.3
+
+- 修复 重启小部件诗词重置问题
+- 优化 小部件自动刷新间隔（0为无穷不自动更新；最小为5分钟）
+- 新增 版权页面（为更新 Google Play)
+
+<br>
+
+### ✅  1.5.1/1.5.2
+
+- 新增 首页下拉刷新诗词
+- 修复 全面屏手势问题
+- 修复 重启小部件问题
+
+<br>
+
+### ✅  1.5.0
+
+之前的代码有点太烂了，这也是导致我迟迟没有更新的缘故，进行了一次重构后继续更新。
+
+- 修复 小部件自动更新问题
+- 新增 配置页面
+- 优化 首页波浪，更加自然
+- 新增 捐赠页面，大家看意愿给俺猫买点罐头哈
+
+![](https://cdn.jsdelivr.net/gh/xcc3641/xcc3641.github.io@master/assets/images/image_cat.png)
+
+---
+
+<details>
+  <summary>过往日志</summary>
+
+    <h3> ✅ 1.4.0</h3>
+    <ul>
+      <li>修复 自动刷新问题（保活后台的情况下，每一个小时更新一次）</li>
+      <li>更新：从小部件进入 APP 不会自动刷新</li>
+    </ul>  
+
+    <h3> ✅ 1.3.0</h3>
+    <ul>
+      <li>新增 详情页</li>
+      <li>修复 点击刷新卡顿</li>
+    </ul>
+
+    <h3> ✅ 1.2.0</h3>
+    <ul>
+      <li>新增 诗词的完整查看</li>
+      <li>修复 点击刷新卡顿</li>
+      <li>修复 崩溃问题</li>
+    </ul>    
+
+</details>

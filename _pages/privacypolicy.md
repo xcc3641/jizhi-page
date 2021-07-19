@@ -1,60 +1,53 @@
 ---
 layout: page
-title: Privacy Policy
+title: 隐私政策
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
+# 几枝 隐私政策
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+欢迎您访问我的产品。 **几枝** （包括App等产品提供的服务，以下简称“产品和服务”）是由 **谢广志** （以下简称“我”）开发并运营的。 确保用户的数据安全和隐私保护是我的首要任务， 本隐私政策载明了您访问和使用我的产品和服务时所收集的数据及其处理方式。
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+请您在继续使用我的产品前务必认真仔细阅读并确认充分理解本隐私政策全部规则和要点， 一旦您选择使用，即视为您同意本隐私政策的全部内容，同意我按其收集和使用您的相关信息。 如您在在阅读过程中，对本政策有任何疑问，可联系我的客服咨询， 请通过 **hugo3641@gmail.com** 或产品中的反馈方式与我取得联系。 如您不同意相关协议或其中的任何条款的，您应停止使用我的产品和服务。
 
-<br>
+本隐私政策帮助您了解以下内容：
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+一、我如何收集和使用您的个人信息；
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+二、我如何存储和保护您的个人信息；
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+三、我如何共享、转让、公开披露您的个人信息；
 
-<br>
+一、我如何收集和使用您的个人信息
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+个人信息是指以电子或者其他方式记录的能够单独或者与其他信息， 结合识别特定自然人身份或者反映特定自然人活动情况的各种信息。 由于我的产品和服务并不需要此类信息，因此很高兴的告知您， 我不会收集关于您的任何个人信息。
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+二、我如何存储和保护您的个人信息
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+作为一般规则，我仅在实现信息收集目的所需的时间内保留您的个人信息。 我会在对于管理与您之间的关系严格必要的时间内保留您的个人信息 （例如，当您开立帐户，从我的产品获取服务时）。 出于遵守法律义务或为证明某项权利或合同满足适用的诉讼时效要求的目的， 我可能需要在上述期限到期后保留您存档的个人信息，并且无法按您的要求删除。 当您的个人信息对于我的法定义务或法定时效对应的目的或档案不再必要时， 我确保将其完全删除或匿名化。
 
-<br>
+我使用符合业界标准的安全防护措施保护您提供的个人信息，并加密其中的关键数据， 防止其遭到未经授权访问、公开披露、使用、修改、损坏或丢失。我会采取一切合理可行的措施，保护您的个人信息。 我会使用加密技术确保数据的保密性；我会使用受信赖的保护机制防止数据遭到恶意攻击。
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+三、我如何共享、转让、公开披露您的个人信息
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+在管理我的日常业务活动所需要时，为追求合法利益以更好地服务客户， 我将合规且恰当的使用您的个人信息。出于对业务和各个方面的综合考虑， 我仅自身使用这些数据，不与任何第三方分享。
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+我可能会根据法律法规规定，或按政府主管部门的强制性要求，对外共享您的个人信息。 在符合法律法规的前提下，当我收到上述披露信息的请求时，我会要求必须出具与之相应的法律文件，如传票或调查函。 我坚信，对于要求我提供的信息，应该在法律允许的范围内尽可能保持透明。
 
-<br>
+在以下情形中，共享、转让、公开披露您的个人信息无需事先征得您的授权同意：
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+1、与国家安全、国防安全直接相关的；
 
-<br>
+2、与犯罪侦查、起诉、审判和判决执行等直接相关的；
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+3、出于维护您或其他个人的生命、财产等重大合法权益但又很难得到本人同意的；
+
+4、您自行向社会公众公开的个人信息；
+
+5、从合法公开披露的信息中收集个人信息的，如合法的新闻报道、政府信息公开等渠道。
+
+6、根据个人信息主体要求签订和履行合同所必需的；
+
+7、用于维护所提供的产品或服务的安全稳定运行所必需的，例如发现、处置产品或服务的故障；
+
+8、法律法规规定的其他情形。
