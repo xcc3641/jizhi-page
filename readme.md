@@ -1,0 +1,1 @@
+https://t3mpl.n4no.com/editor/#manifest=../templates/mobile-app-landing-page/template.yaml
